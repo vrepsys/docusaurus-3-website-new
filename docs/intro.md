@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **[Docusaurus]() in less than 5 [minutes]()**.
 
 :::tip Is that a title?
 
@@ -12,9 +12,16 @@ Hello
 
 :::
 
-## Getting Started
+## Getting [Started]()
 
-<img src={require("/img/docusaurus.png").default} style={{width: '16px'}} />
+hello
+
+
+
+<img
+  src={require("/img/docusaurus.png").default}
+  style={{width: '16px', height: '16px'}}
+/>
 
 Get started by **creating a new site**.
 
