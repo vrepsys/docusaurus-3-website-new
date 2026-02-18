@@ -6,10 +6,8 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-:::tip Is that a title?
-
+:::warning Is that a title?
 Hello
-
 :::
 
 ## Getting Started

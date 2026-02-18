@@ -1,0 +1,13 @@
+[
+  {
+    "label": "Docs",
+    "type": "tab",
+    "children": [
+      {
+        "label": "Introduction",
+        "type": "item",
+        "href": "introduction.mdx"
+      }
+    ]
+  }
+]
